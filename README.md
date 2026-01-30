@@ -50,3 +50,11 @@
 ## ä½¿ç”¨æ–¹æ³•
 
 ç›´æŽ¥åœ¨Discordä¸­æåŠæœºå™¨äººæˆ–å‘èµ·å¯¹è¯å³å¯ä½¿ç”¨å„ç§åŠŸèƒ½ã€‚
+
+## Obsidian ¼¯³É
+
+ÏµÍ³ÏÖÒÑ¼¯³É Obsidian ÖªÊ¶¿â£¬Â·¾¶Îª£ºC:\Users\cloud\Documents\openclaw
+
+- ×Ô¶¯½«Ã¿ÈÕA¹É·ÖÎö½á¹û¼ÇÂ¼µ½ÖªÊ¶¿â
+- Ö§³ÖÍ¨¹ý CLI ÃüÁî¿ìËÙ´´½¨¡¢ËÑË÷ºÍ¹ÜÀí±Ê¼Ç
+- ËùÓÐÖØÒªÐÅÏ¢½«³Ö¾Ã»¯´æ´¢ÔÚÄúµÄ¸öÈËÖªÊ¶¿âÖÐ
